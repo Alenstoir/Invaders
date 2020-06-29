@@ -1,2 +1,4 @@
 # Invaders
-attempt to make "invaders" game in Qt
+Qt c++ attempt to make "invaders" game
+
+`working exec file locates in /release directory`
