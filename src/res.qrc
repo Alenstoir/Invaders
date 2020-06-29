@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>shoot.wav</file>
+        <file>bg.mp3</file>
+        <file>explode.mp3</file>
+        <file>gameover.mp3</file>
+        <file>explode.wav</file>
+        <file>gameover.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bullit.png</file>
+        <file>defender.png</file>
+        <file>enembullit.png</file>
+        <file>invaider.png</file>
+        <file>fullheart.png</file>
+        <file>voidheart.png</file>
+        <file>gameover.png</file>
+        <file>cornerwalls.png</file>
+        <file>horrizwalls.png</file>
+    </qresource>
+</RCC>
